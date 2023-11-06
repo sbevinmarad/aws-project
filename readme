@@ -11,3 +11,4 @@ sudo apt-get install python3-boto3
 
 # for running application
 sudo python3 EmpApp.py
+https://www.youtube.com/watch?v=oWf6hH4iRP4
